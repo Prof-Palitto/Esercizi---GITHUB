@@ -13,3 +13,6 @@ testo per esercizio 2
 ### Soluzione 2
 testo per soluzione 1
 
+## Esercizio 3
+testo per esercizio 3
+
