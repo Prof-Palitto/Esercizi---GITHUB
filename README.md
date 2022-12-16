@@ -16,3 +16,5 @@ testo per soluzione 1
 ## Esercizio 3
 testo per esercizio 3
 
+### Soluzione 3
+testo per soluzione 3
